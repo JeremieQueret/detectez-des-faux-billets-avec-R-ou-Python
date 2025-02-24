@@ -1,6 +1,7 @@
 # detectez-des-faux-billets-avec-R-ou-Python
 Votre entreprise vient de décrocher un contrat avec l’Organisation nationale de lutte contre le faux-monnayage (ONCFM) et elle souhaite vous y envoyer en tant que senior data analyst pour cette mission.
 
+<img width="511" alt="Image" src="https://github.com/user-attachments/assets/321ecda5-1441-4ba3-9e7e-9b42566fd8b3" />
 
 l’ONCFM met en place des méthodes d’identification des faux billets en euros pour lutter contre la contrefaçon. Pour aller plus vite dans cette lutte, nous souhaitons mettre à disposition des équipes une application de machine learning. Celle-ci leur permettra, après avoir scanné des billets (longueur, hauteur, largeur, etc.), de faire une prédiction sur la nature des billets (vrai billet ou faux billet). Nous n’avons pas les compétences en interne pour faire cela, c’est pourquoi nous faisons appel à toi !
 
